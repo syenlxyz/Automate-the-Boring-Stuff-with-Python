@@ -1,1 +1,17 @@
 # Chapter 1: Python Basics
+- Entering Expressions into the Interactive Shell
+- The Integer, Floating-Point, and String Data Types
+- String Concatenation and Replication
+- Storing Value in Variables
+  - Assignment Statements
+  - Variable Names
+- Your First Program
+- Dissecting Your Program
+  - Comments
+  - The print() Function
+  - The input() Function
+  - Printing the User's Name
+  - The len() Function
+  - The str(), int(), and float() Functions
+- Summary
+- Practice Questions
