@@ -1,1 +1,17 @@
 # Chapter 5: Dictionaries and Structuring Data
+- The Dictionary Data Type
+  - Dictionaries vs Lists
+  - The keys(), values(), and items() Methods
+  - Checking Whether a Key or Value Exists in a Dictionary
+  - The get() Method
+  - The setdefault() Method
+- Pretty Printing
+- Using Data Structures to Model Real-World Things
+  - A Tic-Tac-Toe Board
+  - Nested Dictionaries and Lists
+- Summary
+- Practice Questions
+- Practice Projects
+  - Chess Dictionary Validator
+  - Fantasy Game Inventory
+  - List to Dictionary Function for Fantasy Game Inventory
