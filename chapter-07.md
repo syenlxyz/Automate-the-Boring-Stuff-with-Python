@@ -1,1 +1,39 @@
 # Chapter 7: Pattern Matching with Regular Expressions
+- Finding Patterns of Text Without Regular Expressions
+- Finding Patterns of Text with Regular Expressions
+  - Creating Regex Objects
+  - Matching Regex Objects
+  - Review of Regular Expression Matching
+- More Pattern Matching with Regular Expressions
+  - Grouping with Parentheses
+  - Matching Multiple Groups with the Pipe
+  - Optional Matching with the Question Mark
+  - Matching Zero or More with the Star
+  - Matching One or More with the Plus
+  - Matching Specific Repetitions with Braces
+- Greedy and Non-greedy Matching
+- The findall() Method
+- Character Classes
+- Making Your Own Character Classes
+- The Caret and Dollar Sign Characters
+- The Wildcard Character
+  - Matching Everything with Dot-Star
+  - Matching Newlines with the Dot Character
+- Review of Regex Symbols
+- Case-Insensitive Matching
+- Subtituting Strings with the sub() Method
+- Managing Complex Regexes
+- Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE
+- Project: Phone Number and Email Address Extractor
+  - Step 1: Create a Regex for Phone Numbers
+  - Step 2: Create a Regex for Email Addresses
+  - Step 3: Find All Matches in the Clipboard Text
+  - Step 4: Join the Matches into a String for the Clipboard
+  - Running the Program
+  - Ideas for Similar Programs
+- Summary
+- Practice Questions
+- Practice Projects
+  - Date Detection
+  - Strong Password Detection
+  - Regex Version of the strip() Method
