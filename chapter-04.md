@@ -1,1 +1,38 @@
 # Chapter 4: Lists
+- The List Data Type
+  - Getting Individual Values in a List with Indexes
+  - Negative Indexes
+  - Getting a List from Another List with Slices
+  - Getting a List's Length with the len() Function
+  - Changing Values in a List with Indexes
+  - List Concatenation and List Replication
+  - Removing Values from Lists with del Statements
+- Working with Lists
+  - Using for Loops with Lists
+  - The in and not in Operators
+  - The Multiple Assignment Trick
+  - Using the enumerate() Function with Lists
+  - Using the random.choice() and random.shuffle() Functions with Lists
+- Augmented Assignment Operators
+- Methods
+  - Finding a Value in a List with the index() Method
+  - Adding Values to Lists with the append() and insert() Methods
+  - Removing Values from Lists with the remove() Method
+  - Sorting the Values in a List with the sort() Method
+  - Reversing the Values in a List with the reverse() Method
+- Example Program: Magic 8 Ball with a List
+- Sequence Data Types
+  - Mutable and Immutable Data Types
+  - The Tuple Data Type
+  - Converting Types with the list() and tuple() Functions
+- References
+  - Identify and the id() Function
+  - Passing References
+  - The copy Modules's copy() and deepcopy() Functions
+- A Short Program: Conway's Game of Life
+- Summary
+- Practice Questions
+- Practice Projects
+  - Comma Code
+  - Coin Flip Streaks
+  - Character Picture Grid
