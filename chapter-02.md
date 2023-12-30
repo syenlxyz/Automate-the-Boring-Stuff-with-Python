@@ -1,1 +1,26 @@
 # Chapter 2: Flow Control
+- Boolean Values
+- Comparison Operators
+- Boolean Operators
+  - Binary Boolean Operators
+  - The not Operator
+- Mixing Boolean and Comparison Operators
+- Element of Flow Control
+  - Conditions
+  - Blocks of Code
+- Program Execution
+- Flow Control Statements
+  - if Statements
+  - else Statements
+  - elif Statements
+  - while Loop Statements
+  - break Statements
+  - continue Statements
+  - for Loops and the range() Function
+- Importing Modules
+  - from import Statements
+- Ending a Program Early with the sys.exit() Function
+- A Short Program: Guess the Number
+- A Short Program: Rock, Paper, Scissors
+- Summary
+- Practice Questions
