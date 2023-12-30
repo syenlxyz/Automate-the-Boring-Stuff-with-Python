@@ -1,1 +1,20 @@
 # Chapter 3: Functions
+- def Statements with Parameters
+  - Define, Call, Pass, Argument, Parameter
+- Return Values and return Statements
+- The None Value
+- Keyword Arguments and the print() Function
+- The Call Stack
+- Local and Global Scope
+  - Local Variables Cannot Be Used in the Global Scope
+  - Local Scopes Cannot Use Variables in Other Local Scopes
+  - Global Variables Can Be Read from a Local Scope
+  - Local and Global Variables with the Same Name
+- The global Statement
+- Exception Handling
+- A Short Program: Zigzag
+- Summary
+- Practice Questions
+- Practice Projects
+  - The Collatz Sequence
+  - Input Validation
