@@ -1,1 +1,14 @@
 # Chapter 8: Input Validation
+- The PyInputPlus Module
+  - The min, max, greatThan, and lessThan Keyword Arguments
+  - The blank Keyword Argument
+  - The limit, timeout, and default Keyword Arguments
+  - The allowRegexes and blockRegexes Keyword Arguments
+  - Passing a Custom Validation Function to inputCustom()
+- Project: How to Keep an Idiot Busy for Hours
+- Project: Multiplication Quiz
+- Summary
+- Practice Questions
+- Practice Projects
+  - Sandwich Maker
+  - Write Your Own Multiplication Quiz
