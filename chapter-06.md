@@ -1,1 +1,30 @@
 # Chapter 6: Manupulating Strings
+- Working with Strings
+  - String Literals
+  - Indexing and Slicing Strings
+  - The in and not in Operators with Strings
+- Putting Strings Inside Other Strings
+- Useful String Methods
+  - The upper(), lower(), isupper(), and islower() Methods
+  - The isX() Methods
+  - The startswith() and endswith() Methods
+  - The join() and split() Methods
+  - Splitting Strings with the partition() Method
+  - Justifying Text with the rjust(), ljust(), and center() Methods
+  - Removing Whitespace with the strip(), rstrip() and lstrip() Methods
+- Numeric Values of Characters with the ord() and chr() Functions
+- Copying and Pasting Strings with the pyperclip Module
+- Project: Multi-Clipboard Automatic Messages
+  - Step 1: Program Design and Data Structures
+  - Step 2: Handle Command Line Arguments
+  - Step 3: Copy the Right Phrase
+- Project: Adding Bullets to Wiki Markup
+  - Step 1: Copy and Paste from the Clipboard
+  - Step 2: Separate the Lines of Text and Add the Star
+  - Step 3: Join the Modified Lines
+- A Short Program: Pig Latin
+- Summary
+- Practice Questions
+- Practice Projects
+  - Table Printer
+  - Zombie Dice Bots
