@@ -5,7 +5,7 @@
   - Binary Boolean Operators
   - The not Operator
 - Mixing Boolean and Comparison Operators
-- Element of Flow Control
+- Elements of Flow Control
   - Conditions
   - Blocks of Code
 - Program Execution
