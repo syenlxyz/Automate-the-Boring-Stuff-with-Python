@@ -1,4 +1,4 @@
-# Chapter 6: Manupulating Strings
+# Chapter 6: Manipulating Strings
 - Working with Strings
   - String Literals
   - Indexing and Slicing Strings
@@ -11,7 +11,7 @@
   - The join() and split() Methods
   - Splitting Strings with the partition() Method
   - Justifying Text with the rjust(), ljust(), and center() Methods
-  - Removing Whitespace with the strip(), rstrip() and lstrip() Methods
+  - Removing Whitespace with the strip(), rstrip(), and lstrip() Methods
 - Numeric Values of Characters with the ord() and chr() Functions
 - Copying and Pasting Strings with the pyperclip Module
 - Project: Multi-Clipboard Automatic Messages
