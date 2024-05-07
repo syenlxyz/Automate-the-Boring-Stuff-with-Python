@@ -1,2 +1,34 @@
 # Chapter 9: Reading and Writing Files
-- 
+- Files and File Paths
+  - Backslash on Windows and Forward Slash on macOS and Linux
+  - Using the / Operator to Join Paths
+  - The Current Working Directory
+  - The Home Directory
+  - Absolute vs Relative Paths
+  - Creating New Folders Using the os.makedirs() Function
+  - Handling Absolute and Relative Paths
+  - Getting the Parts of a File Path
+  - Finding File Sizes and Folder Contents
+  - Modifying a List of Files Using Glob Patterns
+  - Checking Path Validity
+- The File Reading/Writing Process
+  - Opening Files with the open() Function
+  - Reading the Contents of Files
+  - Writing to Files
+- Saving Variables with the shelve Module
+- Saving Variables with the pprint.pformat() Function
+- Project: Generating Random Quiz Files
+  - Step 1: Store the Quiz Data in a Dictionary
+  - Step 2: Create the Quiz File and Shuffle the Question Order
+  - Step 3: Create the Answer Options
+  - Step 4: Write Content to the Quiz and Answer Key Files
+- Project: Updatable Multi-Clipboard
+  - Step 1: Comments and Shelf Setup
+  - Step 2: Save Clipboard Content with a Keyword
+  - Step 3: List Keywords and Load a Keyword's Content
+- Summary
+- Practice Questions
+- Practice Projects
+  - Extending the Multi-Clipboard
+  - Mad Libs
+  - Regex Search
