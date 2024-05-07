@@ -26,9 +26,9 @@
   - The Tuple Data Type
   - Converting Types with the list() and tuple() Functions
 - References
-  - Identify and the id() Function
+  - Identity and the id() Function
   - Passing References
-  - The copy Modules's copy() and deepcopy() Functions
+  - The copy Module's copy() and deepcopy() Functions
 - A Short Program: Conway's Game of Life
 - Summary
 - Practice Questions
