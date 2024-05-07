@@ -1,6 +1,6 @@
 # Chapter 8: Input Validation
 - The PyInputPlus Module
-  - The min, max, greatThan, and lessThan Keyword Arguments
+  - The min, max, greaterThan, and lessThan Keyword Arguments
   - The blank Keyword Argument
   - The limit, timeout, and default Keyword Arguments
   - The allowRegexes and blockRegexes Keyword Arguments
