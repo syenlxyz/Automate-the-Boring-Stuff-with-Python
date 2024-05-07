@@ -1,1 +1,27 @@
 # Chapter 10: Organizing Files
+- The shutil Module
+  - Copying Files and Folders
+  - Moving and Renaming Files and Folders
+  - Permanently Deleting Files and Folders
+  - Safe Deletes with the send2trash Module
+- Walking a Directory Tree
+- Compressing Files with the zipfile Module
+  - Reading ZIP Files
+  - Extracting from ZIP Files
+  - Creating and Adding to ZIP Files
+- Project: Renaming Files with American-Style Dates to European-Style Dates
+  - Step 1: Create a Regex for American-Style Dates
+  - Step 2: Identify the Date Parts from the Filenames
+  - Step 3: Form the New Filename and Rename the Files
+  - Ideas for Similar Programs
+- Project: Backing Up a Folder into a ZIP File
+  - Step 1: Figure Out the ZIP File's Name
+  - Step 2: Create the New ZIP File
+  - Step 3: Walk the Directory Tree and Add to the ZIP File
+  - Ideas for Similar Programs
+- Summary
+- Practice Questions
+- Practice Projects
+  - Selective Copy
+  - Deleting Unneeded Files
+  - Filing in the Gaps
