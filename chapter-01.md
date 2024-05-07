@@ -2,7 +2,7 @@
 - Entering Expressions into the Interactive Shell
 - The Integer, Floating-Point, and String Data Types
 - String Concatenation and Replication
-- Storing Value in Variables
+- Storing Values in Variables
   - Assignment Statements
   - Variable Names
 - Your First Program
