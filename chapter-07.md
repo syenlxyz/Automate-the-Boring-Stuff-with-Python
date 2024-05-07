@@ -21,7 +21,7 @@
   - Matching Newlines with the Dot Character
 - Review of Regex Symbols
 - Case-Insensitive Matching
-- Subtituting Strings with the sub() Method
+- Substituting Strings with the sub() Method
 - Managing Complex Regexes
 - Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE
 - Project: Phone Number and Email Address Extractor
