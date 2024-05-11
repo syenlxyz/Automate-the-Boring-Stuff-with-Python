@@ -1,1 +1,37 @@
 # Chapter 17: Keeping Time, Scheduling Tasks, and Launching Programs
+- The time Module
+  - The time.time() Function
+  - The time.sleep() Function
+- Rounding Numbers
+- Project: Super Stopwatch
+  - Step 1: Set Up the Program to Track Times
+  - Step 2: Track and Print Lap Times
+  - Ideas for Similar Programs
+- The datetime Module
+  - The timedelta Data Type
+  - Pausing Until a Specific Date
+  - Converting datetime Objects into Strings
+  - Converting Strings into datetime Objects
+- Review of Python's Time Functions
+- Multithreading
+  - Passing Arguments to the Thread's Target Function
+  - Concurrency Issues
+- Project: Multithreaded XKCD Downloader
+  - Step 1: Modify the Program to Use a Function
+  - Step 2: Create and Start Threads
+  - Step 3: Wait for All Threads to End
+- Launching Other Programs from Python
+  - Passing Command Line Arguments to the Popen() Function
+  - Task Scheduler, launchd, and cron
+  - Opening Websites with Python
+  - Running Other Python Scripts
+  - Opening Files with Default Applications
+- Project: Simple Countdown Program
+  - Step 1: Count Down
+  - Step 2: Play the Sound File
+  - Ideas for Similar Programs
+- Summary
+- Practice Questions
+- Practice Projects
+  - Prettified Stopwatch
+  - Scheduled Web Comic Downloader
