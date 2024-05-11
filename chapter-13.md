@@ -1,1 +1,39 @@
 # Chapter 13: Working with Excel Spreadsheets
+- Excel Documents
+- Installing the openpyxl Module
+- Reading Excel Documents
+  - Opening Excel Documents with OpenPyXL
+  - Getting Sheets from the Workbook
+  - Getting Cells from the Sheets
+  - Converting Between Column Letters and Numbers
+  - Getting Rows and Columns from the Sheets
+  - Workbooks, Sheets, Cells
+- Project: Reading Data from a Spreadsheet
+  - Step 1: Read the Spreadsheet Data
+  - Step 2: Populate the Data Structure
+  - Step 3: Write the Results to a File
+  - Ideas for Similar Programs
+- Writing Excel Documents
+  - Creating and Saving Excel Documents
+  - Creating and Removing Sheets
+  - Writing Values to Cells
+- Project: Updating a Spreadsheet
+  - Step 1: Set Up a Data Structure with the Update Information
+  - Step 2: Check All Rows and Update Incorrect Prices
+  - Ideas for Similar Programs
+- Setting the Font Style of Cells
+- Font Objects
+- Formulas
+- Adjusting Rows and Columns
+  - Setting Row Height and Column Width
+  - Merging and Unmerging Cells
+  - Freezing Panes
+- Charts
+- Summary
+- Practice Questions
+- Practice Projects
+  - Multiplication Table Maker
+  - Blank Row Inserter
+  - Spreadsheet Cell Inverter
+  - Text Files to Spreadsheet
+  - Spreadsheet to Text Files
