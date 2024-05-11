@@ -1,1 +1,46 @@
 # Chapter 12: Web Scraping
+- Project: maplt.py with the webbrowser Module
+  - Step 1: Figure Out the URL
+  - Step 2: Handle the Command Line Arguments
+  - Step 3: Handle the Clipboard Content and Launch the Browser
+  - Ideas for Similar Programs
+- Downloading Files from the Web with the requests Module
+  - Downloading a Web Page with the requests.get() Function
+  - Checking for Errors
+- Saving Downloaded Files to the Hard Drive
+- HTML
+  - Resources for Learning HTML
+  - A Quick Refresher
+  - Viewing the Source HTML of a Web Page
+  - Opening Your Browser's Developer Tools
+  - Using the Developer Tools to Find HTML Elements
+- Parsing HTML with the bs4 Module
+  - Creating a BeautifulSoup Object from HTML
+  - Finding an Element with the select() Method
+  - Getting Data from an Element's Attributes
+- Project: Opening All Search Results
+  - Step 1: Get the Command Line Arguments and Request the Search Page
+  - Step 2: Find All the Results
+  - Step 3: Open Web Browsers for Each Result
+  - Ideas for Similar Programs
+- Project: Downloading All XKCD Comics
+  - Step 1: Design the Program
+  - Step 2: Download the Web Page
+  - Step 3: Find and Download the Comic Image
+  - Step 4: Save the Image and Find the Previous Comic
+  - Ideas for Similar Programs
+- Controlling the Browser with the selenium Module
+  - Starting a selenium-Controlled Browser
+  - Finding Elements on the Page
+  - Clicking the Page
+  - Filling Out and Submitting Forms
+  - Sending Special Keys
+  - Clicking Browser Buttons
+  - More Information on Selenium
+- Summary
+- Practice Questions
+- Practice Projects
+  - Command Line Emailer
+  - Image Site Downloader
+  - 2048
+  - Link Verification
