@@ -1,1 +1,23 @@
 # Chapter 11: Debugging
+- Raising Exceptions
+- Getting the Traceback as a String
+- Assertions
+  - Using an Assertion in a Traffic Light Simulation
+- Logging
+  - Using the logging Module
+  - Don't Debug with the print() Function
+  - Logging Levels
+  - Disabling Logging
+  - Logging to a File
+- Mu's Debugger
+  - Continue
+  - Step In
+  - Step Over
+  - Step Out
+  - Stop
+  - Debugging a Number Adding Program
+  - Breakpoints
+- Summary
+- Practice Questions
+- Practice Project
+  - Debugging Coin Toss
