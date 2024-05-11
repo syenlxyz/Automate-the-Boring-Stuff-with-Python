@@ -10,8 +10,19 @@
   - Step 4: Save the Results
   - Ideas for Similar Programs
 - Word Documents
-  - 
+  - Reading Word Documents
+  - Getting the Full Text from a .docx File
+  - Styling Paragraph and Run Objects
+  - Creating Word Documents with Nondefault Styles
+  - Run Attributes
+  - Writing Word Documents
+  - Adding Headings
+  - Adding Line and Page Breaks
+  - Adding Pictures
 - Creating PDFs from Word Documents
 - Summary
 - Practice Questions
 - Practice Projects
+  - PDF Paranoia
+  - Custom Invitations as Word Documents
+  - Brute-Force PDF Password Breaker
