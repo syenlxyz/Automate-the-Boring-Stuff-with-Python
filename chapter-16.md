@@ -1,1 +1,25 @@
 # Chapter 16: Working with CSV Files and JSON Data
+- The csv Module
+  - reader Objects
+  - Reading Data from reader Objects in a for Loop
+  - writer Objects
+  - The delimiter and lineterminator Keyword Arguments
+  - DictReader and DictWriter CSV Objects
+- Project: Removing the Header from CSV Files
+  - Step 1: Loop Through Each CSV File
+  - Step 2: Read in the CSV File
+  - Step 3: Write Out the CSV File Without the First Row
+  - Ideas for Similar Programs
+- JSON and APIs
+- The json Module
+  - Reading JSON with the loads() Function
+  - Writing JSON with the dumps() Function
+- Project: Fetching Current Weather Data
+  - Step 1: Get Location from the Command Line Argument
+  - Step 2: Download the JSON Data
+  - Step 3: Load JSON Data and Print Weather
+  - Ideas for Similar Programs
+- Summary
+- Practice Questions
+- Practice Project
+  - Excel-to-CSV Converter
