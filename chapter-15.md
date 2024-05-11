@@ -1,1 +1,17 @@
 # Chapter 15: Working with PDF and Word Documents
+- PDF Documents
+  - Extracting Text from PDFs
+  - Decrypting PDFs
+  - Creating PDFs
+- Project: Combining Selected Pages from Many PDFs
+  - Step 1: Find All PDF Files
+  - Step 2: Open Each PDF
+  - Step 3: Add Each Page
+  - Step 4: Save the Results
+  - Ideas for Similar Programs
+- Word Documents
+  - 
+- Creating PDFs from Word Documents
+- Summary
+- Practice Questions
+- Practice Projects
