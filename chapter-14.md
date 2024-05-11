@@ -1,1 +1,20 @@
 # Chapter 14: Working with Google Sheets
+- Installing and Setting Up EZSheets
+  - Obtaining Credentials and Token Files
+  - Revoking the Credentials File
+- Spreadsheet Objects
+  - Creating, Uploading, and Listing Spreadsheets
+  - Spreadsheet Attributes
+  - Downloading and Uploading Spreadsheets
+  - Deleting Spreadsheets
+- Sheet Objects
+  - Reading and Writing Data
+  - Creating and Deleting Sheets
+  - Copying Sheets
+- Working with Google Sheets Quotas
+- Summary
+- Practice Questions
+- Practice Projects
+  - Downloading Google Forms Data
+  - Converting Spreadsheets to Other Formats
+  - Finding Mistakes in a Spreadsheet
