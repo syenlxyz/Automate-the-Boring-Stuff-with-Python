@@ -19,6 +19,3 @@
 - Chapter 18: Sending Email and Text Messages
 - Chapter 19: Manipulating Images
 - Chapter 20: Controlling the Keyboard and Mouse with GUI Automation
-- Appendix A: Installing Third-Party Modules
-- Appendix B: Running Programs
-- Appendix C: Answers to the Practice Questions
