@@ -1,1 +1,26 @@
 # Chapter 19: Manipulating Images
+- Computer Image Fundamentals
+  - Colors and RGBA Values
+  - Coordinates and Box Tuples
+- Manipulating Images with Pillow
+  - Working with the Image Data Type
+  - Cropping Images
+  - Copying and Pasting Images onto Other Images
+  - Resizing an Image
+  - Rotating and Flipping Images
+  - Changing Individual Pixels
+- Project: Adding a Logo
+  - Step 1: Open the Logo Image
+  - Step 2: Loop Over All Files and Open Images
+  - Step 3: Resize the Images
+  - Step 4: Add the Logo and Save the Changes
+  - Ideas for Similar Programs
+- Drawing on Images
+  - Drawing Shapes
+  - Drawing Text
+- Summary
+- Practice Questions
+- Practice Projects
+  - Extending and Fixing the Chapter Project Programs
+  - Identifying Photo Folders on the Hard Drive
+  - Custom Seating Cards
